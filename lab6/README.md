@@ -3,7 +3,7 @@
 **Course:** Python Data Processing  
 **Student:** Bahar Berra Uyar / KH-222ia.e  
 **Instructor:** Svitlana Mykolaivna Kovalenko  
-**Date:** 03/11/2024
+**Date:** 28/11/2024
 
 ## Topic and Goal of the Lab
 The purpose of this laboratory work is to explore image processing techniques using the OpenCV and PIL libraries. The specific objectives include:
