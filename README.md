@@ -5,7 +5,7 @@
 This repository contains the results and implementations of various laboratory works from the **Python Data Processing** course. The tasks span a variety of topics, including data exploration and visualization, image processing, and handling of real-world datasets. The labs focus on using Python libraries such as Pandas, NumPy, OpenCV, and Matplotlib to analyze, manipulate, and visualize data, as well as process and modify images.
 
 ## Table of Contents
-- [Laboratory Work 2: Data Exploration and Visualization with Python](#laboratory-work-2)
+- [Laboratory Work 2: Data Exploration and Visualization with Python](#lab2)
 - [Laboratory Work 3: US Baby Names Data Analysis](#laboratory-work-3)
 - [Laboratory Work 4: DataFrames Merging, Data Aggregation, and Data Visualization](#laboratory-work-4)
 - [Laboratory Work 5: Image Processing with OpenCV](#laboratory-work-5)
